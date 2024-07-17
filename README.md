@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# Petgram - Social Media for Pets
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is to build a social media with the sole purpose of letting our pets get friends online.
 
 Currently, two official plugins are available:
 
